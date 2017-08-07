@@ -1,0 +1,4 @@
+What happens when you intialize a repository? Why do you need to do it.
+
+Creates a .git which is able to store commit history and edits
+You need to intiailize to put the framework for git bash to begin tracking updates

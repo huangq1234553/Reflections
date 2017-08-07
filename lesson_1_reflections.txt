@@ -1,0 +1,4 @@
+Interesting introduction to a basic course. Learning to compare two text files using diff in windows is interesting
+
+in the next version, we will be updating to include version control systems? 
+Would probably reduce a lot of hassle and save time each time new changes are implemented. Similarly, buggy code could be debugged more easily.
